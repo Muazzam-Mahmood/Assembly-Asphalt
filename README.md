@@ -6,12 +6,12 @@ Players can control vehicles, race on tracks, and experience a low-level program
 ---
 
 ## 🏎 Game Highlights
-
+- includes **Dynamic Background Scrolling** for smoother gameplay
 - **Racing mechanics** implemented at low-level using assembly  
 - Multiple **phases of development**, each adding new features  
 - **Optimized and modular code** for performance  
 - Final version is **commented and verified** for clarity  
-- Includes **player input handling**  basic game logic and collision detection
+- Includes **Car input handling**  basic game logic and collision detection
 
 ---
 

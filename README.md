@@ -35,6 +35,6 @@ Players can control vehicles, race on tracks, and experience a low-level program
 This project is licensed under the **MIT License**.  
 
 ---
-## Oeiginal Repository
-[Assembly-Asphalt-Original_Repository](https://github.com/Killercoder07/Assembly-Asphalt)
+## Original Repository
+-[Assembly-Asphalt-Original_Repository](https://github.com/Killercoder07/Assembly-Asphalt)
 ---
